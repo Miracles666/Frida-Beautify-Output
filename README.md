@@ -65,7 +65,7 @@ server 推荐使用 live server  在vscode插件安装直接右键即可运行
     }
 ```
 
-**里面留空的，默认值为null。**
+里面留空的，默认值为null。
 
 
 
